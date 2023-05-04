@@ -1,7 +1,7 @@
 # Hackerrank-Problem-Solving-Solutions
 I hope you all would be very benefitted by going through this repository.
 
-## Below are the links of the Problem Solving (Questions) 👇👇👇
+## Below are the links of the Hackerrank Problem Solving (Questions) 👇👇👇
 
 #### *Algorithms* 👇
 
