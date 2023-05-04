@@ -10,4 +10,4 @@ Here I will upload Hackerrank's (Coding Challenge Website) Problem Solving secti
     4. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
   
   #### *Data Structures* 👇👇👇
-    1. [Arrays - DS](https://pages.github.com/)(https://www.hackerrank.com/challenges/arrays-ds/problem/)
+    - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem/).
